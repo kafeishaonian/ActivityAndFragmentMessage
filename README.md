@@ -1,3 +1,3 @@
-# AndroidAndFragmentMessage
-Android与Fragment完美通讯
+# ActivityAndFragmentMessage
+Activity与Fragment完美通讯
 自定义依赖
